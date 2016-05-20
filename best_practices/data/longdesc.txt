@@ -1,0 +1,1 @@
+Il grafico mostra l'andamento del framerate (FPS o Frame-per-second) dell'applicazione, utilizzando un Delta dinamico per moltiplicare tutte le transizioni.
